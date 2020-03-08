@@ -1,6 +1,4 @@
-.grid {
+.grid div {
     display: grid;
-    grid-template-columns: repeat(50, 50fr);
-    grid-auto-rows: minmax(40px, auto);
-    grid-column-start: initial;
+    grid-template-columns: repeat(50, 30px);
 }
