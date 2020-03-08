@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "editor.tabSize": 2
+}

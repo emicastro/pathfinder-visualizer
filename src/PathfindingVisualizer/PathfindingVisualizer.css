@@ -1,4 +1,10 @@
+.grid {
+    display: inline-block;
+    margin-top: 7%;
+}
+
+
 .grid div {
     display: grid;
-    grid-template-columns: repeat(50, 30px);
+    grid-template-columns: repeat(50, 25px);
 }
